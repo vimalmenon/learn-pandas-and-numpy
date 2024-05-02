@@ -1,1 +1,1 @@
-# learn-pandas-and-numpy
+# Learn Pandas and NumPy
