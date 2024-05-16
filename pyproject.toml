@@ -11,6 +11,8 @@ jupyter = "^1.0.0"
 pandas = "^2.2.2"
 matplotlib = "^3.8.4"
 beautifulsoup4 = "^4.12.3"
+humps = "^0.2.2"
+pyhumps = "^3.8.0"
 
 
 [build-system]
